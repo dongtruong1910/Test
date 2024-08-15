@@ -1,0 +1,7 @@
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\BT,BTL,NCKH\BT Lập trình Visual Studio 2022\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
