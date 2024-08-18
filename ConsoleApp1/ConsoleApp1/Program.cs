@@ -22,6 +22,7 @@ namespace ConsoleApp1
             DSMH DS1 = new DSMH();
             DS1.NhapDSMH();
             DS1.XuatDSMH();
+            Console.ReadKey();//dung man hinh de xem ket qua
         }
 
         private static void MonHoc(string v1, string v2, int v3)
@@ -63,7 +64,7 @@ class MonHoc
         Console.WriteLine(this.getMaMon());
         Console.WriteLine(this.getTenMon());
         Console.WriteLine(this.getSTC());
-        Console.ReadKey();//dung man hinh de xem ket qua
+        
     }
 
     public
