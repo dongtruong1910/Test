@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f402db6fe40043e99a02a6cb86cfedd0" Name="Diagram1">
+        <EntityTypeShape EntityType="QLBanHangModel.tblChatLieu" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLBanHangModel.tblChiTietHDBan" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLBanHangModel.tblHang" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLBanHangModel.tblHDBan" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLBanHangModel.tblKhach" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLBanHangModel.tblNhanVien" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="QLBanHangModel.FK_tblSanPham_tblChatLieu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLBanHangModel.FK_tblChiTietHDBan_tblHDBan" ManuallyRouted="false" />
+        <AssociationConnector Association="QLBanHangModel.FK_tblChiTietHDBan_tblSanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QLBanHangModel.FK_tblHDBan_tblKhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLBanHangModel.FK_tblHDBan_tblNhanVien" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

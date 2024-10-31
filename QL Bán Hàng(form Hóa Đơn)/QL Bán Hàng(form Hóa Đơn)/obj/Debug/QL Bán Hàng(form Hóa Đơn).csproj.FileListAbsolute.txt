@@ -1,0 +1,31 @@
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\QL Bán Hàng(form Hóa Đơn).exe.config
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\QL Bán Hàng(form Hóa Đơn).exe
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\QL Bán Hàng(form Hóa Đơn).pdb
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL Bán Hàng(form Hóa Đơn).csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL_Bán_Hàng_form_Hóa_Đơn_.Frm_Main.resources
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL_Bán_Hàng_form_Hóa_Đơn_.Properties.Resources.resources
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL Bán Hàng(form Hóa Đơn).csproj.GenerateResource.cache
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL Bán Hàng(form Hóa Đơn).csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL B_n H.FCDBBE13.Up2Date
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL Bán Hàng(form Hóa Đơn).exe
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL Bán Hàng(form Hóa Đơn).pdb
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\obj\Debug\QL_Bán_Hàng_form_Hóa_Đơn_.FormHoaDon.resources
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EPPlus.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Buffers.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Memory.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\EPPlus.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Buffers.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Memory.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\source\repos\QL Bán Hàng(form Hóa Đơn)\QL Bán Hàng(form Hóa Đơn)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
